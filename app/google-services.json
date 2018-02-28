@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491659645237",
+    "firebase_url": "https://premier-league-b1c35.firebaseio.com",
+    "project_id": "premier-league-b1c35",
+    "storage_bucket": "premier-league-b1c35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491659645237:android:86db71e729508e5b",
+        "android_client_info": {
+          "package_name": "com.example.mostafa.premireLeague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491659645237-1ojna94acpeqibmim38l7m42n9rabq54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mostafa.premireLeague",
+            "certificate_hash": "2fab2cd1020f0d12ccccf99dbf6691731435cf07"
+          }
+        },
+        {
+          "client_id": "491659645237-b78sgrbg6aksuemhq6tm60d7hpcf3rt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD86lr_gq3AimHVgLOv4UAyOYtPQg3L_D0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491659645237-b78sgrbg6aksuemhq6tm60d7hpcf3rt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

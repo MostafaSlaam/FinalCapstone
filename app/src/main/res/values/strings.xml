@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Fantasy El Premier League </string>
+    <string name="t1">Arsenal</string>
+    <string name="t2">Bournemouth</string>
+    <string name="t3">Brighton</string>
+    <string name="t4">Burnley</string>
+    <string name="t5">Chelsea</string>
+    <string name="t6">Crystal Palace</string>
+    <string name="t7">Everton</string>
+    <string name="t8">Huddersfield</string>
+    <string name="t9">Leicester</string>
+    <string name="t10">Liverpool</string>
+    <string name="t11">Man City</string>
+    <string name="t12">Man Utd</string>
+    <string name="t13">Newcastle</string>
+    <string name="t14">Southampton</string>
+    <string name="t15">Stoke</string>
+    <string name="t16">Swansea</string>
+    <string name="t17">Spurs</string>
+    <string name="t18">Watford</string>
+    <string name="t19">West Brom</string>
+    <string name="t20">West Ham</string>
+    <string name="enter_comment">Enter Comment</string>
+
+    <string name="btn_logout_from_google">Logout</string>
+
+    <string name="facebook_application_id">1803793202998522</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">GO to APP</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="view_comments">View Comments</string>
+    <string name="logo_image">logo_image</string>
+    <string name="previous_btn">previous_btn</string>
+    <string name="next_button">next_button</string>
+    <string name="fixture">fixture</string>
+    <string name="added_player">this player added before!</string>
+    <string name="dialog_title">Premier League</string>
+    <string name="related_image_url">.png</string>
+    <string name="check_player_id">PlayerID=?</string>
+    <string name="player_code">code</string>
+    <string name="team_player">team</string>
+    <string name="s_num">squad_number</string>
+    <string name="f_name">first_name</string>
+    <string name="s_name">second_name</string>
+    <string name="postion">element_type</string>
+    <string name="match_status">Not Started !!!</string>
+    <string name="defult_comment">Type a comment</string>
+    <string name="test">no internet!!</string>
+    <string name="log_team">log_team</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_to_watchlist">Add to watchlist</string>
+    <string name="send_button">send_button</string>
+    <string name="close_icon">close_icon</string>
+    <string name="player_image">player_image</string>
+
+
+    <string name="gameweek">GameWeek</string>
+    <string name="space" />
+    <string name="above">:</string>
+    <string name="notStarted">--:--</string>
+    <string name="static_url">https://fantasy.premierleague.com/drf/bootstrap-static</string>
+    <string name="f_path">next_event_fixtures</string>
+    <string name="s_path">next-event</string>
+    <string name="event_url">https://fantasy.premierleague.com/drf/event/</string>
+    <string name="live">/live</string>
+    <string name="fixtures">fixtures</string>
+    <string name="elemnts">elements</string>
+    <string name="free" />
+    <string name="Comments">Comments</string>
+    <string name="buffer">UTF-8</string>
+    <string name="False">false</string>
+    <string name="gw">GW</string>
+    <string name="index">index</string>
+    <string name="ID">ID</string>
+    <string name="home">home</string>
+    <string name="away">away</string>
+    <string name="h_score">h_score</string>
+    <string name="a_score">a_score</string>
+    <string name="date">date</string>
+    <string name="jsonObject">current-event</string>
+
+
+    <string name="get_string_id">id</string>
+    <string name="kickoff_time_formatted">kickoff_time_formatted</string>
+    <string name="team_h">team_h</string>
+    <string name="team_a">team_a</string>
+    <string name="team_h_score">team_h_score</string>
+    <string name="team_a_score">team_a_score</string>
+    <string name="finished">finished</string>
+    <string name="minute">minutes</string>
+    <string name="started">started</string>
+
+
+    <string name="dlimater">\\A</string>
+    <string name="zero">0</string>
+    <string name="True">true</string>
+    <string name="web_name">web_name</string>
+    <string name="a">a</string>
+    <string name="element">element</string>
+    <string name="value">value</string>
+    <string name="right_brac">)</string>
+    <string name="left_brac">(</string>
+    <string name="h">h</string>
+    <string name="stats">stats</string>
+    <string name="fixture_status">-----</string>
+
+</resources>
